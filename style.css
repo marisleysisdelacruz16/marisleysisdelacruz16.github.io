@@ -1,7 +1,7 @@
 #subheading {color: purple ; font-size: 16 px; font-family: "Verdana", sans-serif;}
-#intro {font-family: "Georgia",monospace; font-size: 12 px; color: black}
+p {font-family: "Georgia",monospace; font-size: 12 px; color: black}
 h1 {text-align: center; border: 3px purple; color: pink
-  ; font-family: "Georgia",monospace; color: white}
+  ; font-family: "Georgia",monospace; color: black}
 .subtitle {color: purple ; }
 .skill {font-family: "Georgia",monospace; color: black}
 body {background-image: url(https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0434/0474/0_0_solid_FFE5EE_paler_pastel_pink_shop_preview.png); }
