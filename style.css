@@ -5,4 +5,4 @@ h1 {text-align: center; border: 3px purple; color: pink
 .skill {font-family: Georgia,monospace; color: black}
 .subtitle {text-align: left; color: purple}
 body {background-color: pastel pink}
-https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0434/0474/0_0_solid_FFE5EE_paler_pastel_pink_shop_preview.png
+body {background-image: https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0434/0474/0_0_solid_FFE5EE_paler_pastel_pink_shop_preview.png ("pink.gif") ; }
