@@ -1,8 +1,8 @@
 #subheading {color: purple ; font-size: 16 px; font-family: "Verdana", sans-serif;}
-p {font-family: Georgia,monospace; font-size: 12 px; color: white}
+#intro {font-family: Georgia,monospace; font-size: 12 px; color: white}
 h1 {text-align: center; border: 3px purple; color: pink
   ; font-family: Georgia,monospace; color: white}
+h2 {color: green}
 .skill {font-family: Georgia,monospace; color: black}
-.subtitle {text-align: left; color: purple}
 body {background-color: pastel pink}
 body {background-image: https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0434/0474/0_0_solid_FFE5EE_paler_pastel_pink_shop_preview.png ("pink.gif") ; }
