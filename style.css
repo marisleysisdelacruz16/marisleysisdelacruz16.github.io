@@ -1,11 +1,10 @@
 #subheading {color: purple ; font-size: 16 px; font-family: "Verdana", sans-serif;}
 p {font-family: "Georgia",monospace; font-size: 12 px; color: black}
 h1 {text-align: center; color: pink
-  ; font-family: 'Julius Sans One', sans-serif; color: black}
+  ; font-family: "Julius Sans One", sans-serif; color: black}
 .subtitle {color: purple ; }
 .sub {color: purple;}
 .skill {font-family: "Georgia",monospace; color: black}
-<! -- background-color: #@60E1E0 -->
-body {background-image: url(https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0434/0474/0_0_solid_FFE5EE_paler_pastel_pink_shop_preview.png); }
+body {background-image: url(https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0434/0474/0_0_solid_FFE5EE_paler_pastel_pink_shop_preview.png) ; }
 .project {color: black ; font-size: 11}
 .scratch {color: black; font-size: 11}
