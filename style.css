@@ -1,5 +1,4 @@
-body {
-  background-color: #EFC3E6;}
+
 
 #subheading {
   color: purple;
@@ -14,8 +13,7 @@ p {
 
 h1 {
   text-align: center;
-  color: #60E1E0;
-  font-family: "Julius Sans One", sans-serif;
+  font-family: 'Courgette', cursive;
 }
 
 .subtitle {
@@ -23,8 +21,17 @@ h1 {
 }
 
 .sub {
-  color: purple;}
-.skill {font-family: "Georgia",monospace; color: black}
+  color: purple;
+}
+.skill {
+  font-family: "Georgia",monospace; color: black
+}
 
-.project {color: black ; font-size: 11}
-.scratch {color: black; font-size: 11}
+.project {
+  color: black ;
+  font-size: 11
+}
+.scratch {
+  color: black;
+   font-size: 11
+ }
