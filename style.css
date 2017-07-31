@@ -1,7 +1,9 @@
-
+body {
+  background-color: blue ;
+}
 
 #subheading {
-  color: purple;
+  color: #F0A6CA;
   font-size: 16 px;
   font-family: "Verdana", sans-serif;
 }
@@ -11,21 +13,21 @@ p {
   font-size: 12 px; color: black
 }
 
-h1 {
+.name {
   text-align: center;
-  color: blue;
-  font-family: 'Courgette', cursive;
+  color: #60E1E0;
+  font-family: 'Acme', sans-serif;
 }
 
 .subtitle {
-  color: purple;
+  color: #F0A6CA;
 }
 
 .sub {
-  color: purple;
+  color: #F0A6CA;
 }
 .skill {
-  font-family: "Georgia",monospace; color: black
+  font-family: "Georgia",monospace; color: #F05D5E ; font-weight: bold;
 }
 
 .project {
