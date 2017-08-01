@@ -1,15 +1,9 @@
 body {
-  background-color: blue ;
-}
-
-#subheading {
-  color: #F0A6CA;
-  font-size: 16 px;
-  font-family: "Verdana", sans-serif;
+  background-color: white ;
 }
 
 p {
-  font-family: "Georgia",monospace;
+  font-family: 'Adamina', serif;
   font-size: 12 px; color: black
 }
 
@@ -21,20 +15,37 @@ p {
 
 .subtitle {
   color: #F0A6CA;
+  text-align: left;
+  font-family: 'Acme', sans-serif;
+}
+
+.subtitle2 {
+  color: #F0A6CA;
+  font-family: 'Acme', sans-serif;
 }
 
 .sub {
   color: #F0A6CA;
+  font-family: 'Acme', sans-serif;
 }
 .skill {
-  font-family: "Georgia",monospace; color: #F05D5E ; font-weight: bold;
+   color: #F05D5E ;
+   font-family: 'Acme', sans-serif;
 }
 
 .project {
   color: black ;
-  font-size: 11
+  font-size: 11;
+  font-family: 'Acme', sans-serif;
 }
 .scratch {
   color: black;
-   font-size: 11
+  font-size: 11;
+  font-family: 'Acme', sans-serif;
+ }
+
+ .info {
+   font-family: 'Love Ya Like A Sister', cursive;
+   color: black;
+   font-size: 13
  }
